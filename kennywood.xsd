@@ -17,8 +17,8 @@
         <xs:complexType>
             <xs:sequence>
                 <xs:element name="sourceHierarchy" type="xs:string"/>
-                <xs:element name="purpose" type="xs:string"/>
-                <xs:element name="productionOrigin" type="xs:string" />
+                <xs:element name="purpose" type="xs:string" minOccurs="0"/>
+                <xs:element name="productionOrigin" type="xs:string" minOccurs="0"/>
                 <xs:element ref="kw:modsSection" minOccurs="0"/>
                 <xs:element ref="kw:dcSection" minOccurs="0" />
                 <xs:element ref="kw:vraSection" minOccurs="0" />
