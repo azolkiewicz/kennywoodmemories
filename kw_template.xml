@@ -4,10 +4,11 @@
     xmlns="https://github.com/azolkiewicz/kennywoodmemories" xmlns:mods="http://www.loc.gov/mods/v3"
  xmlns:vra="http://www.vraweb.org/vracore4.htm" xmlns:dcterms="http://purl.org/dc/terms"
  xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <bggId></bggId>
-    <price>43.00</price>
-    <myRating>4</myRating>
-    <playerCount></playerCount>
+    
+    <sourceHierarchy></sourceHierarchy>
+    <purpose></purpose>
+    <productionOrigin></productionOrigin>
+    
     <modsSection>
         <mods:mods>
             <mods:name type="personal">
