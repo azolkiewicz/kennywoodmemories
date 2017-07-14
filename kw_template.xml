@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kennywood xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/azolkiewicz/kennywoodmemories https://raw.githubusercontent.com/azolkiewicz/kennywoodmemories/master/kennywood.xsd"
+    xmlns="https://github.com/azolkiewicz/kennywoodmemories" xmlns:mods="http://www.loc.gov/mods/v3"
+ xmlns:vra="http://www.vraweb.org/vracore4.htm" xmlns:dcterms="http://purl.org/dc/terms"
+ xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <bggId></bggId>
+    <price>43.00</price>
+    <myRating>4</myRating>
+    <playerCount></playerCount>
+    <modsSection>
+        <mods:mods>
+            <mods:name type="personal">
+                <mods:namePart>Eberle, Bill</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm>Designer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource></mods:typeOfResource>
+            <mods:name type="personal">
+                <mods:namePart>Olotka, Peter</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm>Designer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name>
+                <mods:namePart>Navarro, Andrew</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm>Artist</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo>
+                <mods:publisher>Fantasy Flight Games</mods:publisher>
+                <mods:dateCreated>2008</mods:dateCreated>
+            </mods:originInfo>
+        </mods:mods>
+    </modsSection>
+    
+    <dcSection>
+        <dc:title>Cosmic Encounter</dc:title>
+        <dc:description> Build a galactic empire... In the depths of space, the alien races of the
+            Cosmos vie with each other for control of the universe. Alliances form and shift from
+            moment to moment, while cataclysmic battles send starships screaming into the warp.
+            Players choose from dozens of alien races, each with its own unique power to further its
+            efforts to build an empire that spans the galaxy. </dc:description>
+    </dcSection>
+    
+    <vraSection>
+        <vra:work>
+            <vra:subjectSet>
+                <vra:subject>
+                    <vra:term>Bluffing</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term>Negotiation</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term>Science Fiction</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term>Space Exploration</vra:term>
+                </vra:subject>
+            </vra:subjectSet>
+        </vra:work>
+    </vraSection>
+</kennywood>
