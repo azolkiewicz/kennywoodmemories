@@ -13,7 +13,7 @@
     <xs:import namespace="http://www.vraweb.org/vracore4.htm" schemaLocation="http://www.loc.gov/standards/vracore/vra.xsd"/>
     <!--<xs:import namespace="http://www.vraweb.org/vracore4.htm" schemaLocation="http://www.loc.gov/standards/vracore/vra-strict.xsd"/>-->
     
-    <xs:element name="kennywood">
+    <xs:element name="boardGame">
         <xs:complexType>
             <xs:sequence>
                 <xs:element name="bggId" type="xs:string"/>
