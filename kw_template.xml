@@ -11,39 +11,34 @@
     
     <modsSection>
         <mods:mods>
+            <mods:titleInfo>
+                <mods:title></mods:title>
+            </mods:titleInfo>
+            <mods:originInfo>
+                <mods:publisher>Fantasy Flight Games</mods:publisher>
+                <mods:dateCreated>2008</mods:dateCreated>
+            </mods:originInfo>
             <mods:name type="personal">
                 <mods:namePart>Eberle, Bill</mods:namePart>
                 <mods:role>
                     <mods:roleTerm>Designer</mods:roleTerm>
                 </mods:role>
             </mods:name>
+            <mods:identifier type="kw"></mods:identifier>
             <mods:typeOfResource></mods:typeOfResource>
-            <mods:name type="personal">
-                <mods:namePart>Olotka, Peter</mods:namePart>
-                <mods:role>
-                    <mods:roleTerm>Designer</mods:roleTerm>
-                </mods:role>
-            </mods:name>
-            <mods:name>
-                <mods:namePart>Navarro, Andrew</mods:namePart>
-                <mods:role>
-                    <mods:roleTerm>Artist</mods:roleTerm>
-                </mods:role>
-            </mods:name>
-            <mods:originInfo>
-                <mods:publisher>Fantasy Flight Games</mods:publisher>
-                <mods:dateCreated>2008</mods:dateCreated>
-            </mods:originInfo>
+            <mods:physicalDescription></mods:physicalDescription>
+            <mods:language>
+                  <mods:languageTerm></mods:languageTerm>
+            </mods:language>
+            <mods:accessCondition></mods:accessCondition>
+            <mods:recordInfo>
+                <mods:recordCreationDate></mods:recordCreationDate>
+            </mods:recordInfo>
         </mods:mods>
     </modsSection>
     
     <dcSection>
-        <dc:title>Cosmic Encounter</dc:title>
-        <dc:description> Build a galactic empire... In the depths of space, the alien races of the
-            Cosmos vie with each other for control of the universe. Alliances form and shift from
-            moment to moment, while cataclysmic battles send starships screaming into the warp.
-            Players choose from dozens of alien races, each with its own unique power to further its
-            efforts to build an empire that spans the galaxy. </dc:description>
+        <dc:description></dc:description>
     </dcSection>
     
     <vraSection>
