@@ -6,7 +6,7 @@
 * [Schema Considerations](https://github.com/azolkiewicz/kennywoodmemories/wiki/Schema-Considerations)
 * [Application Profile](https://docs.google.com/spreadsheets/d/1y5Je-VuIx0hXXJ8kbkUHNKriqM_FA8j3GiVOXIs2SFc/edit?usp=sharing)
 * [Functional Requirements](https://github.com/azolkiewicz/kennywoodmemories/wiki/Functional-Requirements)
-* [Overview of Controlled Vocabularies and Encoding Schemes](insert link)
+* [Overview of Controlled Vocabularies and Encoding Schemes](https://github.com/azolkiewicz/kennywoodmemories/wiki/Overview-of-Controlled-Vocabularies-and-Encoding-Schemes)
 * Sample Records
     * [Record 1](https://github.com/azolkiewicz/kennywoodmemories/blob/master/kw001.xml)
     * [Record 2](insert link)
