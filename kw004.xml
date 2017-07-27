@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kennywood xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/azolkiewicz/kennywoodmemories https://raw.githubusercontent.com/azolkiewicz/kennywoodmemories/master/kennywood.xsd"
+    xmlns="https://github.com/azolkiewicz/kennywoodmemories" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:vra="http://www.vraweb.org/vracore4.htm" xmlns:dcterms="http://purl.org/dc/terms"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+    <sourceHierarchy>secondary</sourceHierarchy>
+    <purpose>documentary</purpose>
+    <purpose>entertainment</purpose>
+    <productionOrigin>third party</productionOrigin>
+
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Kennywood Memories</mods:title>
+            </mods:titleInfo>
+            <mods:originInfo>
+                <mods:dateCreated>1990</mods:dateCreated>
+            </mods:originInfo>
+            <mods:name type="personal">
+                <mods:namePart type="family">Sebak</mods:namePart>
+                <mods:namePart type="given">Rick</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm>Producer</mods:roleTerm>
+                    <mods:roleTerm>Writer</mods:roleTerm>
+                    <mods:roleTerm>Narrator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart type="family">Rosen</mods:namePart>
+                <mods:namePart type="given">Allen</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm>Director</mods:roleTerm>
+                    <mods:roleTerm>Videographer</mods:roleTerm>
+                    <mods:roleTerm>Editor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart type="family">Pearsall</mods:namePart>
+                <mods:namePart type="given">Talmadge</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm>Music</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="corporate">
+                <mods:namePart>WQED 13</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm>Producer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:identifier type="kw">kw004</mods:identifier>
+            <mods:typeOfResource>moving image</mods:typeOfResource>
+            <mods:physicalDescription>
+                <mods:form>VHS</mods:form>
+                <mods:extent>1 videocassette (60 min.)</mods:extent>
+                <mods:note>sound, color with black and white sequences ; 1/2 in.</mods:note>
+            </mods:physicalDescription>
+            <mods:language>
+                <mods:languageTerm>eng</mods:languageTerm>
+            </mods:language>
+            <mods:accessCondition>© 1990 QED Communications Inc.</mods:accessCondition>
+            <mods:recordInfo>
+                <mods:recordCreationDate>2017-07-25</mods:recordCreationDate>
+            </mods:recordInfo>
+        </mods:mods>
+    </modsSection>
+
+    <dcSection>
+        <dc:description>A history of Kennywood Park, one of the only surviving trolley parks in the
+            world, located about 10 miles from downtown Pittsburgh. Looks behind the scenes at the
+            park as it used to be and was in 1988.</dc:description>
+    </dcSection>
+
+    <vraSection>
+        <vra:work>
+            <vra:subjectSet>
+                <vra:subject>
+                    <vra:term>Amusement parks Pennsylvania.</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term>Kennywood Park (Pa.) History.</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term>Pittsburgh Region (Pa.) History.</vra:term>
+                </vra:subject>
+            </vra:subjectSet>
+        </vra:work>
+    </vraSection>
+</kennywood>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kennywood xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/azolkiewicz/kennywoodmemories https://raw.githubusercontent.com/azolkiewicz/kennywoodmemories/master/kennywood.xsd"
+    xmlns="https://github.com/azolkiewicz/kennywoodmemories" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:vra="http://www.vraweb.org/vracore4.htm" xmlns:dcterms="http://purl.org/dc/terms"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+    <sourceHierarchy>primary</sourceHierarchy>
+    <purpose>souvenir</purpose>
+    <purpose>entertainment</purpose>
+    <productionOrigin>third party</productionOrigin>
+
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>The Phantom's Revenge Elongated Souvenir Penny</mods:title>
+            </mods:titleInfo>
+            <mods:originInfo>
+                <mods:dateCreated>2001</mods:dateCreated>
+            </mods:originInfo>
+            <mods:identifier type="kw">kw006</mods:identifier>
+            <mods:typeOfResource>three dimensional object</mods:typeOfResource>
+            <mods:physicalDescription>
+                <mods:form type="material">copper</mods:form>
+                <mods:form type="material">zinc</mods:form>
+                <mods:extent unit="mm">35 mm</mods:extent>
+            </mods:physicalDescription>
+            <mods:language>
+                <mods:languageTerm>eng</mods:languageTerm>
+            </mods:language>
+            <mods:recordInfo>
+                <mods:recordCreationDate>2017-07-27</mods:recordCreationDate>
+            </mods:recordInfo>
+        </mods:mods>
+    </modsSection>
+
+    <dcSection>
+        <dc:description>Elongated coins are coins that have been elongated (flattened or stretched)
+            and embossed with a new design with the purpose of creating a commemorative or souvenir
+            token. It is common to find "pressed penny" machines in tourism hubs, such as museums,
+            amusement parks, and natural/man-made landmarks. This elongated souvenir penny was
+            created at Kennywood Park in 2001 and is embossed with an image commemorating one of the
+            park's rollercoasters, the Phantom's Revenge.</dc:description>
+    </dcSection>
+
+    <vraSection>
+        <vra:work>
+            <vra:subjectSet>
+                <vra:subject>
+                    <vra:term>Kennywood Park (Pa.) History.</vra:term>
+                </vra:subject>
+            </vra:subjectSet>
+        </vra:work>
+    </vraSection>
+</kennywood>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kennywood xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/azolkiewicz/kennywoodmemories https://raw.githubusercontent.com/azolkiewicz/kennywoodmemories/master/kennywood.xsd"
+    xmlns="https://github.com/azolkiewicz/kennywoodmemories" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:vra="http://www.vraweb.org/vracore4.htm" xmlns:dcterms="http://purl.org/dc/terms"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+    <sourceHierarchy>primary</sourceHierarchy>
+    <purpose>souvenir</purpose>
+    <purpose>entertainment</purpose>
+    <productionOrigin>third party</productionOrigin>
+
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Transparency Slide Viewer Keychain</mods:title>
+            </mods:titleInfo>
+            <mods:originInfo>
+                <mods:dateCreated>1996</mods:dateCreated>
+                <mods:place>
+                    <mods:placeTerm type="text">Kennywood Park</mods:placeTerm>
+                </mods:place>
+            </mods:originInfo>
+            <mods:name type="corporate">
+                <mods:namePart>AGFA Film</mods:namePart>
+                <mods:namePart type="given">Jason</mods:namePart>
+            </mods:name>
+            <mods:name type="corporate">
+                <mods:namePart>Lord's Int'l</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm>Distributor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:identifier type="kw">kw005</mods:identifier>
+            <mods:typeOfResource>three dimensional object</mods:typeOfResource>
+            <mods:physicalDescription>
+                <mods:form type="material">plastic</mods:form>
+                <mods:note>55 mm</mods:note>
+            </mods:physicalDescription>
+            <mods:language>
+                <mods:languageTerm>eng</mods:languageTerm>
+            </mods:language>
+            <mods:recordInfo>
+                <mods:recordCreationDate>2017-07-25</mods:recordCreationDate>
+            </mods:recordInfo>
+        </mods:mods>
+    </modsSection>
+
+    <dcSection>
+        <dc:description>A slide viewer (also called transparency viewer) is a device used to look at
+            film transparencies or similar photographic images when held up to light. This
+            transparency slide viewer is a keychain and contains a photo of a father and daughter
+            who had visited Kennywood Park during the summer of 1996. </dc:description>
+    </dcSection>
+
+    <vraSection>
+        <vra:work>
+            <vra:subjectSet>
+                <vra:subject>
+                    <vra:term>Kennywood Park (Pa.) History.</vra:term>
+                </vra:subject>
+            </vra:subjectSet>
+        </vra:work>
+    </vraSection>
+</kennywood>
