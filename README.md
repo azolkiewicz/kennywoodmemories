@@ -4,7 +4,7 @@
 * [Our Users](https://github.com/azolkiewicz/kennywoodmemories/wiki/Our-Users)
 * [Our Schema](https://github.com/azolkiewicz/kennywoodmemories/blob/master/kennywood.xsd)
 * [Schema Considerations](https://github.com/azolkiewicz/kennywoodmemories/wiki/Schema-Considerations)
-* [Application Profile](insert link)
+* [Application Profile](https://docs.google.com/spreadsheets/d/1y5Je-VuIx0hXXJ8kbkUHNKriqM_FA8j3GiVOXIs2SFc/edit?usp=sharing)
 * [Functional Requirements](https://github.com/azolkiewicz/kennywoodmemories/wiki/Functional-Requirements)
 * [Overview of Controlled Vocabularies and Encoding Schemes](insert link)
 * Sample Records
