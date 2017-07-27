@@ -1,4 +1,4 @@
-# Welcome to the Kennywood Memories Collection!
+# Welcome to the Kennywood Memories wiki!
 
 ### Table of Contents
 * [Our Users](https://github.com/azolkiewicz/kennywoodmemories/wiki/Our-Users)
@@ -22,3 +22,5 @@
     * [Record 12](insert link)
     * [Record 13](insert link)
     * [Record 14](insert link)
+* [Record 1 Crosswalked to DC](https://github.com/azolkiewicz/kennywoodmemories/blob/master/kw001dc.xml)
+* [Record 2 Crosswalked to DC](https://github.com/azolkiewicz/kennywoodmemories/blob/master/kw002dc.xml)
