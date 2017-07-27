@@ -1,5 +1,5 @@
-# Welcome to the Kennywood Memories wiki!
-***
+# Welcome to the Kennywood Memories Collection!
+
 ### Table of Contents
 * [Our Users](https://github.com/azolkiewicz/kennywoodmemories/wiki/Our-Users)
 * [Our Schema](https://github.com/azolkiewicz/kennywoodmemories/blob/master/kennywood.xsd)
