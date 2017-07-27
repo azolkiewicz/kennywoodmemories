@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kennywood xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/azolkiewicz/kennywoodmemories https://raw.githubusercontent.com/azolkiewicz/kennywoodmemories/master/kennywood.xsd"
+    xmlns="https://github.com/azolkiewicz/kennywoodmemories" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:vra="http://www.vraweb.org/vracore4.htm" xmlns:dcterms="http://purl.org/dc/terms"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+    <sourceHierarchy>secondary</sourceHierarchy>
+    <purpose>reporting</purpose>
+    <purpose>entertainment</purpose>
+    <purpose>documentary</purpose>
+    <productionOrigin>third party</productionOrigin>
+
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Reborn and Ready for Revenge</mods:title>
+            </mods:titleInfo>
+            <mods:originInfo>
+                <mods:publisher>Pittsburgh Business Times</mods:publisher>
+                <mods:dateCreated>2001-05-04</mods:dateCreated>
+            </mods:originInfo>
+            <mods:name type="personal">
+                <mods:namePart type="family">Gallinger</mods:namePart>
+                <mods:namePart type="given">Jason</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm>author</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart type="family">Tascarella</mods:namePart>
+                <mods:namePart type="given">Patty</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm>author</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:identifier type="kw">kw008</mods:identifier>
+            <mods:identifier type="document number">GALE|A74654254</mods:identifier>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:physicalDescription>
+                <mods:form>journal article</mods:form>
+            </mods:physicalDescription>
+            <mods:language>
+                <mods:languageTerm>eng</mods:languageTerm>
+            </mods:language>
+            <mods:accessCondition>© 2001 American City Business Journals,
+                Inc.</mods:accessCondition>
+            <mods:recordInfo>
+                <mods:recordCreationDate>2017-07-27</mods:recordCreationDate>
+            </mods:recordInfo>
+        </mods:mods>
+    </modsSection>
+
+    <dcSection>
+        <dc:description>The Steel Phantom is back from the dead, and it's even bigger and badder
+            than before. Kennywood's decision to replace the Steel Phantom, a roller coaster
+            consistently rated among the top five in the world since its 1991 debut, may have been a
+            stunning blow to its fans. In the $20 billion world of amusement parks, though, roller
+            coasters are big business and newer, more extreme coasters draw the crowds. Kennywood,
+            still putting the finishing touches on Phantom's Revenge, can't say just when its sixth
+            and newest coaster will whip its way around the park at more than 80 miles per hour. But
+            that magic date is expected to occur this month.</dc:description>
+    </dcSection>
+
+    <vraSection>
+        <vra:work>
+            <vra:subjectSet>
+                <vra:subject>
+                    <vra:term>Kennywood Park (Pa.) History.</vra:term>
+                </vra:subject>
+            </vra:subjectSet>
+        </vra:work>
+    </vraSection>
+</kennywood>
