@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kennywood xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/azolkiewicz/kennywoodmemories https://raw.githubusercontent.com/azolkiewicz/kennywoodmemories/master/kennywood.xsd"
+    xmlns="https://github.com/azolkiewicz/kennywoodmemories" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:vra="http://www.vraweb.org/vracore4.htm" xmlns:dcterms="http://purl.org/dc/terms"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    
+    <sourceHierarchy>primary</sourceHierarchy>
+    <purpose>documentary</purpose>
+    <purpose>education</purpose>
+    <productionOrigin>first party</productionOrigin>
+    
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Polish American Day at Kennywood Park</mods:title>
+            </mods:titleInfo>
+            <mods:originInfo>
+                <mods:publisher>EDJU Productions</mods:publisher>
+                <mods:dateCreated>1989</mods:dateCreated>
+            </mods:originInfo>
+            <mods:name type="corporate">
+                <mods:namePart>EDJU Productions</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm>Producer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:identifier type="kw">kw003</mods:identifier>
+            <mods:typeOfResource>moving image</mods:typeOfResource>
+            <mods:physicalDescription>
+                <mods:form>VHS</mods:form>
+                <mods:extent>1 videocassette (180 min.)</mods:extent>
+                <mods:note>sound, color; 1/2 in.</mods:note>
+            </mods:physicalDescription>
+            <mods:language>
+                <mods:languageTerm>eng</mods:languageTerm>
+                <mods:languageTerm>pol</mods:languageTerm>
+            </mods:language>
+            <mods:accessCondition>© EDJU Productions</mods:accessCondition>
+            <mods:recordInfo>
+                <mods:recordCreationDate>2017-07-27</mods:recordCreationDate>
+            </mods:recordInfo>
+        </mods:mods>
+    </modsSection>
+    
+    <dcSection>
+        <dc:description>Video record of Polish American Day celebrations at Kennywood Park including speeches, music, a catholic mass in Polish, a performance by Jan Lewan, and interviews with event participants. </dc:description>
+    </dcSection>
+    
+    <vraSection>
+        <vra:work>
+            <vra:subjectSet>
+                <vra:subject>
+                    <vra:term>Kennywood Park (Pa.) Polish Americans --Pennsylvania</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term>Amusement parks Pennsylvania.</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term>Kennywood park (Pa.) History.</vra:term>
+                </vra:subject>
+            </vra:subjectSet>
+        </vra:work>
+    </vraSection>
+</kennywood>

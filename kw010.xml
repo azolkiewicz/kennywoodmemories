@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kennywood xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/azolkiewicz/kennywoodmemories https://raw.githubusercontent.com/azolkiewicz/kennywoodmemories/master/kennywood.xsd"
+    xmlns="https://github.com/azolkiewicz/kennywoodmemories" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:vra="http://www.vraweb.org/vracore4.htm" xmlns:dcterms="http://purl.org/dc/terms"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    
+    <sourceHierarchy>primary</sourceHierarchy>
+    <purpose>marketing</purpose>
+    <productionOrigin>first party</productionOrigin>
+    
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Kennywood Ragin Rapids Commercial</mods:title>
+            </mods:titleInfo>
+            <mods:originInfo>
+                <mods:publisher>MARC Advertising, Inc.</mods:publisher>
+                <mods:dateCreated>1985</mods:dateCreated>
+            </mods:originInfo>
+            <mods:name type="personal">
+                <mods:namePart type="family">Lambert</mods:namePart>
+                <mods:namePart type="given">Jack</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm>Actor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name>
+                <mods:namePart type="family">Cope</mods:namePart>
+                <mods:namePart type="given">Myron</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm>Actor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="corporate">
+                <mods:namePart>MARC Advertising, Inc.</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm>Producer</mods:roleTerm>
+                </mods:role>  
+            </mods:name>
+            <mods:identifier type="kw">kw010</mods:identifier>
+            <mods:typeOfResource>moving image</mods:typeOfResource>
+            <mods:physicalDescription><mods:digitalOrigin>digitized other analog</mods:digitalOrigin>
+                <mods:internetMediaType>mp4, (29 sec.) sound, color</mods:internetMediaType> 
+            </mods:physicalDescription>
+            <mods:language>
+                <mods:languageTerm>eng</mods:languageTerm>
+            </mods:language>
+            <mods:accessCondition>© 1985 MARC Advertising, Inc.</mods:accessCondition>
+            <mods:recordInfo>
+                <mods:recordCreationDate>2017-06-26</mods:recordCreationDate>
+            </mods:recordInfo>
+        </mods:mods>
+    </modsSection>
+    
+    <dcSection>
+        <dc:description>An advertisement featuring Pittsburgh Steelers player Jack Lambert and commentator Myron Cope riding the "Raging Rapids" at Kennywood amusement park in 1985.</dc:description>
+    </dcSection>
+    
+    <vraSection>
+        <vra:work>
+            <vra:subjectSet>
+                <vra:subject>
+                    <vra:term>Kennywood Park (Pa.)</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term>Amusement parks Pennsylvania.</vra:term>
+                </vra:subject>    
+            </vra:subjectSet>
+        </vra:work>
+    </vraSection>
+</kennywood>

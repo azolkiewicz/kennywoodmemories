@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kennywood xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/azolkiewicz/kennywoodmemories https://raw.githubusercontent.com/azolkiewicz/kennywoodmemories/master/kennywood.xsd"
+    xmlns="https://github.com/azolkiewicz/kennywoodmemories" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:vra="http://www.vraweb.org/vracore4.htm" xmlns:dcterms="http://purl.org/dc/terms"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    
+    <sourceHierarchy>secondary</sourceHierarchy>
+    <purpose>education</purpose>
+    <purpose>entertainment</purpose>
+    <purpose>documentary</purpose>
+    <productionOrigin>third party</productionOrigin>
+    
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Kennywood: Behind the Screams Pocket Edition</mods:title>
+            </mods:titleInfo>
+            <mods:originInfo>
+                <mods:publisher>Senator John Heinz Hisotry Center</mods:publisher>
+                <mods:dateCreated>2016</mods:dateCreated>
+            </mods:originInfo>
+            <mods:name type="personal">
+                <mods:namePart type="family">Butko</mods:namePart>
+                <mods:namePart type="given">Brian</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm>Author</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:identifier type="kw">kw003</mods:identifier>
+            <mods:identifier type="ISBN">9780936340234</mods:identifier>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:physicalDescription>
+                <mods:form>print book</mods:form>
+                <mods:extent unit="pages">144</mods:extent>
+                <mods:note>illustrations color, maps color; 20 cm.</mods:note>
+            </mods:physicalDescription>
+            <mods:language>
+                <mods:languageTerm>eng</mods:languageTerm>
+            </mods:language>
+            <mods:accessCondition>© Senator John Heinz History Center</mods:accessCondition>
+            <mods:recordInfo>
+                <mods:recordCreationDate>2017-07-27</mods:recordCreationDate>
+            </mods:recordInfo>
+        </mods:mods>
+    </modsSection>
+    
+    <dcSection>
+        <dc:description>Kennywood: Behind the Screams, Pocket Edition takes long-time fans and new visitors on a walking tour through Kennywood by exploring the history at each ride and attraction.</dc:description>
+    </dcSection>
+    
+    <vraSection>
+        <vra:work>
+            <vra:subjectSet>
+                <vra:subject>
+                    <vra:term>Amusement parks Pennsylvania History Pictorial works.</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term>Kennywood Park (Pa.) History Pictorial works.</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term>Amusement parks Pennsylvania History.</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term>Kennywood Park (Pa.) History</vra:term>
+                </vra:subject>
+            </vra:subjectSet>
+        </vra:work>
+    </vraSection>
+</kennywood>
